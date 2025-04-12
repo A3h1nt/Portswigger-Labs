@@ -11,4 +11,4 @@
   - [x] SQL-7 : https://portswigger.net/web-security/sql-injection/union-attacks/lab-determine-number-of-columns
   - [x] SQL-8 : https://portswigger.net/web-security/sql-injection/union-attacks/lab-find-column-containing-text
   - [x] SQL-9 : https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-data-from-other-tables
-  - [ ] SQL-10 : https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column
+  - [x] SQL-10 : https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column
