@@ -5,3 +5,4 @@
   - [x] SQL-3 : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle
   - [x] SQL-4 : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft
   - [x] SQL-5 : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle
+  - [x] SQL-6 : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-oracle
