@@ -19,3 +19,4 @@
   - [x] SQL-11 : https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
   - [ ] ~SQL-12 : https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors~ : Too easy, not doin it
   - [x] SQL-13 : https://portswigger.net/web-security/sql-injection/blind/lab-sql-injection-visible-error-based : Interactive Injection Snippet
+  - [x] SQL-14 : https://portswigger.net/web-security/sql-injection/blind/lab-time-delays
