@@ -1,6 +1,10 @@
 # Progress
 
-*You might find some inconsistencies between similar exploits, that's just me playing around trying different things, don't get confused*
+```bash
+13/18
+```
+
+*You might find some inconsistencies between similar exploits, that's just me playing around trying different things, don't get confused.*
 
   - [x] SQL-1 : https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
   - [x] SQL-2 : https://portswigger.net/web-security/sql-injection/lab-login-bypass
