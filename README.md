@@ -3,4 +3,5 @@
 *Completing portswigger labs in ruby 🔻.*
 
 ## Topics
-- [ ] SQL
+- [x] SQL
+- [ ] Authentication 
