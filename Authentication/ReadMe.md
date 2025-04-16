@@ -1,7 +1,7 @@
 # Progress
 
 ```bash
-5/14
+6/14
 ```
 
 - [x] Auth-1 : https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses
