@@ -1,3 +1,4 @@
+# Password is `onceuponatime` it is not present in the portswigger's wordlist, so add this and run
 require 'http'
 require 'nokogiri'
 require 'Digest'
