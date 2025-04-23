@@ -4,10 +4,8 @@
 
 ## Topics
 - [x] SQL
-- [ ] Authentication 
-
-
-
+- [x] Authentication
+- [ ] Path Traversal
 
 
 ***Flex**: 0% AI written code.*
