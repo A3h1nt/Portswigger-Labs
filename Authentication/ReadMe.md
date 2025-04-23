@@ -1,7 +1,7 @@
 # Progress
 
 ```bash
-12/14
+13/14
 ```
 
 - [x] Auth-1 : https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses
@@ -16,3 +16,4 @@
 - [x] Auth-10 : https://portswigger.net/web-security/authentication/other-mechanisms/lab-offline-password-cracking
 - [x] Auth-11 : https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-poisoning-via-middleware
 - [x] Auth-12 : https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-brute-force-via-password-change
+- [x] Auth-13 : https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-multiple-credentials-per-request
