@@ -4,11 +4,14 @@
 
 ## Summary
 
+_Start Date : April 10, 2025_
+
 ### Server Side Topics
 - [x] SQL
 - [x] Authentication
 - [x] Path Traversal
-- [ ] Command Injection
+- [x] Command Injection
+- [ ] Business logic vulnerabilities
 
 
 ***Flex**: 0% AI written code.*
